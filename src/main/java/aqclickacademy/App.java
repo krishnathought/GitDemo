@@ -13,5 +13,12 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("hi java");
         System.out.println("git examples");
+        
+    }
+    
+  
+    public void method_for_Git_EX()
+    {
+    	System .out.println("method for GIT ex");
     }
 }
